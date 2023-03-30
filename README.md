@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 ................................................................................................................................
 Project Deatils
 ...................................................................................................................................................
@@ -9,21 +9,33 @@ Project Deatils
  
 
 .Login page
+
   .Username, Password, login (when click on login then lands to dashboard page)
 
 .Dashboard
+
    .Sidebar with below button
+   
    .Dashboard
+   
   .Products
- .Admin
+  
+  .Admin
+  
  .Settings
+ 
  
 
 .Menu bar with below button
+
   .Feature
+  
   .Services
+  
   .Setting
+  
  .Login
+ 
 
 
 
@@ -32,7 +44,7 @@ Project Deatils
 
 
 
-
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
